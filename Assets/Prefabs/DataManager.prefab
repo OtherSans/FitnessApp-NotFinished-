@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3626775110341649108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7164304512374332925}
+  - component: {fileID: 7469411329513439972}
+  - component: {fileID: 1639507418435528543}
+  - component: {fileID: 5921176222051010462}
+  m_Layer: 0
+  m_Name: DataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7164304512374332925
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3626775110341649108}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7469411329513439972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3626775110341649108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b5b6c0fd59cd7843a32ceebadf0e97e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onboard: {fileID: 0}
+  info: {fileID: 0}
+  nameInputField: {fileID: 0}
+  nickName: {fileID: 0}
+  goalInputField: {fileID: 0}
+  chosenGoal: {fileID: 0}
+  chosenGoalText: {fileID: 0}
+  goalImages:
+  - {fileID: 21300000, guid: 9b095aac29b0a2347beb2efb07b61223, type: 3}
+  - {fileID: 21300000, guid: 5af2179aa8fa9e94f9e3efe1c930bd1f, type: 3}
+  - {fileID: 21300000, guid: ed26aa5f368f93146b1dc5fb1cadc3cb, type: 3}
+  chosenImageIndex: {fileID: 0}
+  chosenGoalPhoto: {fileID: 0}
+  trainingType: {fileID: 0}
+  trainingTypeTextField: {fileID: 0}
+  emotionType: {fileID: 0}
+  emotionTypeTextField: {fileID: 0}
+  chosenHour: {fileID: 0}
+  hourTimeText: {fileID: 0}
+  chosenMin: {fileID: 0}
+  minTimeText: {fileID: 0}
+--- !u!114 &1639507418435528543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3626775110341649108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 727f450af4507194ebd9a8e0b3490769, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5921176222051010462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3626775110341649108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de783b1b679c3341a02de79b24c05bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  historyPrefab: {fileID: 6675682028069848476, guid: 949d1c8e6bda4a94fba999bf8ebd5206, type: 3}
+  historyPosition: {fileID: 0}
+  histories: []
+  hoursText: {fileID: 5332873492689996410, guid: c0aae2afa5085454ba9b1e19cf79bfdf, type: 3}
+  minText: {fileID: 3526209759404259582, guid: 920c6011b310f864ba5aa619de0de9d2, type: 3}
+  emotionText: {fileID: 4159287926341807416, guid: a42df7a6f55017a42a64029ab9066b02, type: 3}
+  trainingText: {fileID: 5599786710101441223, guid: 5ce8faaed5cb1054296b1435bee1bd9e, type: 3}

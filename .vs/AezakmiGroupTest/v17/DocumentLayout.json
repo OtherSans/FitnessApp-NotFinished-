@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|d:\\self-study!\\gamedev\\myunityproj\\aezakmi\\aezakmigrouptest\\assets\\scripts\\datasavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datasavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\mainmenugoaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenugoaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\scriptable\\goalplayerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptable\\goalplayerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\goaltrainingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goaltrainingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\scrollingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scrollingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\newplayerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newplayerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\scriptable\\trainingplayerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptable\\trainingplayerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\tutorialcheckingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorialcheckingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\selectedemotiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectedemotiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\chooseemotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chooseemotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\selectedtrainingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectedtrainingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\choosetypebuttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\choosetypebuttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\trainingbuttonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trainingbuttonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\chosenimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9C124-8B24-3286-7581-E3188F6795AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chosenimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\savesystem\\registrationsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savesystem\\registrationsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\savesystem\\refuelsave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savesystem\\refuelsave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\savesystem\\settingsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savesystem\\settingsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\savesystem\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savesystem\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\savesystem\\savedatainstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savesystem\\savedatainstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\savesystem\\filenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savesystem\\filenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\savesystem\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savesystem\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\savesystem\\planssavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savesystem\\planssavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\assets\\scripts\\savesystem\\plansave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savesystem\\plansave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\FileNameContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SaveSystem\\FileNameContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationSaveData.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\RegistrationSaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\RegistrationSaveData.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\RegistrationSaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\RegistrationSaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:27:02.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RefuelSave.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\RefuelSave.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\RefuelSave.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\RefuelSave.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\RefuelSave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:22:27.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SettingSaveData.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\SettingSaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SettingSaveData.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\SettingSaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SettingSaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:22:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaveSystem.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\SaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveSystem.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\SaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:21:16.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaveDataInstaller.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\SaveDataInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveDataInstaller.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\SaveDataInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveDataInstaller.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAA4wA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:20:20.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileNames.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\FileNames.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\FileNames.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\FileNames.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\FileNames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:19:08.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:19:36.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlansSaveData.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\PlansSaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\PlansSaveData.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\PlansSaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\PlansSaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:19:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlanSave.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\PlanSave.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\PlanSave.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\PlanSave.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\PlanSave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:19:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSavesController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\DataSavesController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataSavesController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\DataSavesController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataSavesController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:55:11.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FileNameContainer.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\FileNameContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\FileNameContainer.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SaveSystem\\FileNameContainer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\FileNameContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:18:42.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuGoalData.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\MainMenuGoalData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuGoalData.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\MainMenuGoalData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuGoalData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wBgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:02:02.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewPlayerData.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\NewPlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewPlayerData.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\NewPlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewPlayerData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:00:57.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoalTrainingData.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\GoalTrainingData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoalTrainingData.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\GoalTrainingData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoalTrainingData.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:57:13.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainingPlayerData.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\Scriptable\\TrainingPlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scriptable\\TrainingPlayerData.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\Scriptable\\TrainingPlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scriptable\\TrainingPlayerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:49:08.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectedEmotionType.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SelectedEmotionType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectedEmotionType.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SelectedEmotionType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectedEmotionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:40:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TutorialCheckingController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\TutorialCheckingController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialCheckingController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\TutorialCheckingController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TutorialCheckingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:07:02.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoalPlayerData.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\Scriptable\\GoalPlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scriptable\\GoalPlayerData.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\Scriptable\\GoalPlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scriptable\\GoalPlayerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:49:26.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScrollingController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ScrollingController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScrollingController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ScrollingController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScrollingController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:18:03.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChooseEmotionController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ChooseEmotionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChooseEmotionController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ChooseEmotionController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChooseEmotionController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:41:46.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SelectedTrainingType.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SelectedTrainingType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectedTrainingType.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\SelectedTrainingType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectedTrainingType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:20:03.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChooseTypeButtonController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ChooseTypeButtonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChooseTypeButtonController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ChooseTypeButtonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChooseTypeButtonController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:56:53.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ButtonController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ButtonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ButtonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:54:32.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrainingButtonsController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\TrainingButtonsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrainingButtonsController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\TrainingButtonsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrainingButtonsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:40:18.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChosenImageController.cs",
+              "DocumentMoniker": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ChosenImageController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChosenImageController.cs",
+              "ToolTip": "D:\\SELF-Study!\\GameDev\\MyUnityProj\\Aezakmi\\AezakmiGroupTest\\Assets\\Scripts\\ChosenImageController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChosenImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:06:49.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
